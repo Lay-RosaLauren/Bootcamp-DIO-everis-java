@@ -1,4 +1,4 @@
-package br.com.digital.innovation.one.aula2;
+package Aula02;
 
 public class FuncaoAltaOrdem {
     public static void main(String[] args) {
