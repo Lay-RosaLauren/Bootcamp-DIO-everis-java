@@ -1,4 +1,4 @@
-package br.com.digital.innovation.one.aula1;
+package Aula01;
 
 public class FuncaoComLambda {
     public static void main(String[] args) {
