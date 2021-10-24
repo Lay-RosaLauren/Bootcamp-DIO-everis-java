@@ -1,4 +1,4 @@
-package br.com.digital.innovation.one.aula2;
+package Aula02;
 
 import java.util.function.Predicate;
 
