@@ -1,4 +1,4 @@
-package br.com.digital.innovation.one.aula6;
+package Aula06;
 
 public class StringIsBlankExemplo {
     public static void main(String[] args) {
