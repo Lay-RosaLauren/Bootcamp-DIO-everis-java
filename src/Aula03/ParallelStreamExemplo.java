@@ -1,4 +1,4 @@
-package br.com.digital.innovation.one.aula3;
+package Aula03;
 
 import java.util.stream.IntStream;
 
