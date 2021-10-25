@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22e071ad-cb7c-4f94-ad99-ee0b4b144e1a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/2244f4bd9b92dd4f7e9a46125fc69c81a95095e1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d89973ee4fad9e689be852790c879625b7249f6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a6a85ec47271f4a98271e2a271a98f834e5606f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94c6ea3288352fff406d688c3b4d24301063e245" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9afdcd4eafce08ca9928a2d728bdba6b2bf17b1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula3/FutureExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula3/ParallelStreamExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula3/ThreadExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula5/InferenciaExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/ClientHttpExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/CollectionExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/InferenciaLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/StringIsBlankExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/StringLinesExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/StringRepeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-funcional.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-funcional.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VqBmaNXAIJBENvTI36CboHGqqy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573601399320" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../coupon-management" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Teste">
+    <configuration name="CollectionExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.digital.innovation.one.aula6.CollectionExemplo" />
+      <module name="java-funcional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.digital.innovation.one.aula6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringIsBlankExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.digital.innovation.one.aula6.StringIsBlankExemplo" />
+      <module name="java-funcional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.digital.innovation.one.aula6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringLinesExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.digital.innovation.one.aula6.StringLinesExemplo" />
+      <module name="java-funcional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.digital.innovation.one.aula6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.digital.innovation.one.aula6.StringRepeat" />
+      <module name="java-funcional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.digital.innovation.one.aula6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.digital.innovation.one.Teste" />
+      <module name="java-funcional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.digital.innovation.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StringIsBlankExemplo" />
+      <item itemvalue="Application.StringLinesExemplo" />
+      <item itemvalue="Application.CollectionExemplo" />
+      <item itemvalue="Application.StringRepeat" />
+      <item itemvalue="Application.Teste" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.StringRepeat" />
+        <item itemvalue="Application.CollectionExemplo" />
+        <item itemvalue="Application.StringLinesExemplo" />
+        <item itemvalue="Application.StringIsBlankExemplo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22e071ad-cb7c-4f94-ad99-ee0b4b144e1a" name="Default Changelist" comment="" />
+      <created>1571106841565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571106841565</updated>
+      <workItem from="1577970906591" duration="7976000" />
+      <workItem from="1578177585597" duration="15431000" />
+      <workItem from="1578398653392" duration="1831000" />
+      <workItem from="1578755215358" duration="1329000" />
+      <workItem from="1578756708353" duration="6467000" />
+      <workItem from="1578863627366" duration="14848000" />
+      <workItem from="1578930043964" duration="2249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="184" key="#Project_Structure" timestamp="1578865037388">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2472" y="184" key="#Project_Structure/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578865037388" />
+    <state x="2334" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578871470172">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2334" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578871470172" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1577973163149">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1577973163149" />
+    <state x="2634" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578182218320">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2634" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578182218320" />
+    <state x="2635" y="229" key="#xdebugger.evaluate" timestamp="1578868857047">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2635" y="229" key="#xdebugger.evaluate/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578868857047" />
+    <state x="592" y="223" key="FileChooserDialogImpl" timestamp="1578922209044">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="2660" y="281" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578757591570" />
+    <state x="592" y="223" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1578922209044" />
+    <state width="1493" height="352" key="GridCell.Tab.0.bottom" timestamp="1578944057579">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1578944057579" />
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578873330702" />
+    <state width="1493" height="352" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578930371683" />
+    <state width="1493" height="352" key="GridCell.Tab.0.center" timestamp="1578944057579">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1578944057579" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578873330702" />
+    <state width="1493" height="352" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578930371683" />
+    <state width="1493" height="352" key="GridCell.Tab.0.left" timestamp="1578944057579">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1578944057579" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578873330702" />
+    <state width="1493" height="352" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578930371683" />
+    <state width="1493" height="352" key="GridCell.Tab.0.right" timestamp="1578944057579">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1578944057579" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578873330702" />
+    <state width="1493" height="352" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578930371683" />
+    <state width="1877" height="350" key="GridCell.Tab.1.bottom" timestamp="1578922210480">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578868987882" />
+    <state width="1877" height="350" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578922210480" />
+    <state width="1877" height="350" key="GridCell.Tab.1.center" timestamp="1578922210479">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578868987882" />
+    <state width="1877" height="350" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1578922210479" />
+    <state width="1877" height="350" key="GridCell.Tab.1.left" timestamp="1578922210479">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578868987881" />
+    <state width="1877" height="350" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1578922210479" />
+    <state width="1877" height="350" key="GridCell.Tab.1.right" timestamp="1578922210479">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578868987882" />
+    <state width="1877" height="350" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1578922210479" />
+    <state x="584" y="352" key="ReplaceDuplicatesPrompt" timestamp="1577977744325">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="584" y="352" key="ReplaceDuplicatesPrompt/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1577977744325" />
+    <state x="2360" y="100" key="SettingsEditor" timestamp="1578863698519">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2360" y="100" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578863698519" />
+    <state x="2533" y="200" width="675" height="660" key="StructurePopup" timestamp="1578761889268">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="490" y="159" width="540" height="524" key="StructurePopup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1577972687287" />
+    <state x="2533" y="200" width="675" height="660" key="StructurePopup/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578761889268" />
+    <state x="2012" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578186741054">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2012" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578186741054" />
+    <state x="2501" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1578863650034">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1578177598474" />
+    <state x="2501" y="306" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578863650034" />
+    <state x="2584" y="419" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578865022183">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2584" y="419" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578865022183" />
+    <state x="2544" y="219" width="538" height="495" key="extract.method.dialog" timestamp="1578873299954">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="499" y="174" width="538" height="495" key="extract.method.dialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1577977801055" />
+    <state x="2544" y="219" key="extract.method.dialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578873299954" />
+    <state x="2575" y="257" width="739" height="606" key="find.popup" timestamp="1578866362697">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2575" y="257" width="739" height="606" key="find.popup/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578866362697" />
+    <state x="209" y="39" key="new project wizard" timestamp="1578447098533">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="39" key="new project wizard/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1578447098533" />
+    <state x="2622" y="145" key="refactoring.ChangeSignatureDialog" timestamp="1578180360606">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2622" y="145" key="refactoring.ChangeSignatureDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578180360606" />
+    <state x="2536" y="243" key="run.anything.popup" timestamp="1578187191000">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2536" y="243" key="run.anything.popup/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578187191000" />
+    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1578761731738">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578761731738" />
+  </component>
+</project>
